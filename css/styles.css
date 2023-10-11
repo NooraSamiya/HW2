@@ -1,0 +1,20 @@
+h1{
+	color:blue;
+}
+#border{
+	border:3px solid red;
+}
+#btn{
+	padding: 6px;
+	font-size: 10px;
+	background-color: yellow;
+	color:red;
+}
+div{
+	height: 100px;
+	width:100px;
+	background-color: chartreuse;
+}
+table,th,td{
+	border:2px solid black;
+}
